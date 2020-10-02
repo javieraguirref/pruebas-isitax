@@ -4,9 +4,13 @@ Vamos a hacer pruebas en la lineas del tiempo
 
 cambio a chocar 1
 
+<<<<<<< HEAD
 
 cambio a chocar 2
 
 y nuevo
 
 cambio desde github
+=======
+cambio que yo he estado haciendo sin darme cuenta que se cambio en origen 
+>>>>>>> alpha
