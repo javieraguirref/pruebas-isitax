@@ -2,19 +2,11 @@ esta es una prueba con cambio en el archivo txt de github
 
 Vamos a hacer pruebas en la lineas del tiempo
 
-<<<<<<< HEAD
-commit 1
-commit 2
-=======
 cambio a chocar 1
 
-<<<<<<< HEAD
-cambio que yo he estado haciendo sin darme cuenta que se cambio en origen
->>>>>>> alpha
-=======
+
 cambio a chocar 2
 
 y nuevo
 
 cambio desde github
->>>>>>> 83132b99d7f17a6aaad28b9d3a0fb69e96e4fdc9
